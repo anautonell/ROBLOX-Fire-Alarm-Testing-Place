@@ -14,10 +14,9 @@
     <h1>Fire Alarm Testing Place</h1>
     <h1>Goodbye...</h1>
     <p>The end of Fire Alarm Testing Place is here... A come back may soon be released, but will be under Roblox Academy, thank you for supporting Fire Alarm Testing Place.</p>
-  </center>
-  <p>Sincerely,</p>
-  <p>joshuadl12, CEO / Founder of Fire Alarm Testing Place and Roblox Academy</p>
-  <center>
+    <p>Sincerely,</p>
+    <p>joshuadl12, CEO / Founder of Fire Alarm Testing Place and Roblox Academy</p>
     <a class="btn btn-raised" href="https://www.robloxacademy.tk">Visit Roblox Academy</a>
   </center>
 </body>
+</html>
